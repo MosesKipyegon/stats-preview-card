@@ -96,8 +96,8 @@ https://www.mediacurrent.com/blog/how-build-card-component - This is an elaborat
 
 ## Author
 
-- Website - [Add your name here](https://github.com/MosesKipyegon)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MosesKipyegon)
-- Twitter - [@yourusername](https://twitter.com/Dihmoss)
+- Website - [Moses Kipyegon](https://github.com/MosesKipyegon)
+- Frontend Mentor - [@MosesKipyegon](https://www.frontendmentor.io/profile/MosesKipyegon)
+- Twitter - [@yDihmoss](https://twitter.com/Dihmoss)
 
 
