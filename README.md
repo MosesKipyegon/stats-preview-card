@@ -32,11 +32,9 @@ Both mobile and desktop view done working mobile-first approach
 ![](./design/Desktop_view.png)
 
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/MosesKipyegon/stats-preview-card)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -90,8 +88,6 @@ How to place an image in a section through css and add an overlay colour over it
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ### Useful resources
 
 https://designmodo.com/statistics-ui-panel/ - This helped me with styling the stats on the card
@@ -105,8 +101,3 @@ https://www.mediacurrent.com/blog/how-build-card-component - This is an elaborat
 - Twitter - [@yourusername](https://twitter.com/Dihmoss)
 
 
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
