@@ -34,8 +34,8 @@ Both mobile and desktop view done working mobile-first approach
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MosesKipyegon/stats-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/MosesKipyegon/stats-preview-card](https://github.com/MosesKipyegon/stats-preview-card)
+- Live Site URL: [https://6326d5fcaf20690280852524--stats-preview-cardme.netlify.app/](https://6326d5fcaf20690280852524--stats-preview-cardme.netlify.app/)
 
 ## My process
 
